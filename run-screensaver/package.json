@@ -2,9 +2,10 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "run-screensaver",
   "title": "Run Screensaver",
+  "version": "0.0.1",
   "description": "Shortcut to run the screensaver",
   "icon": "command-icon.png",
-  "author": "grga",
+  "author": "fgrgic",
   "categories": [
     "System"
   ],
