@@ -1,11 +1,11 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "run-screensaver",
-  "title": "Run Screensaver",
+  "name": "screensaver-runner",
+  "title": "Screensaver Runner",
   "version": "0.0.1",
   "description": "Shortcut to run the screensaver",
   "icon": "command-icon.png",
-  "author": "fgrgic",
+  "author": "grga",
   "categories": [
     "System"
   ],
@@ -14,15 +14,15 @@
     {
       "name": "screensaver",
       "title": "Run Screensaver",
-      "subtitle": "Easy way to run screensaver",
-      "description": "Run the mac's screensaver",
+      "subtitle": "Screensaver Runner",
+      "description": "Run the Mac's screensaver",
       "mode": "no-view"
     },
     {
       "name": "screensaver-mute",
       "title": "Run Screensaver and Mute",
-      "subtitle": "Easy way to run screensaver",
-      "description": "Run the mac's screensaver and mute the system",
+      "subtitle": "Screensaver Runner",
+      "description": "Run the Mac's screensaver and mute the system",
       "mode": "no-view"
     }
   ],
